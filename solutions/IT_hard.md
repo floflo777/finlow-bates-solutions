@@ -3,7 +3,7 @@
 - **Target:** `1QExGvuieS9MvuKC3R1qjp6jGTVcqisTDj` (0.002 BTC)
 - **Edition:** Italian
 - **Family:** figure and deduced (uncompressed P2PKH)
-- **Swept:** yes
+- **Swept:** [ad999c58](https://mempool.space/tx/ad999c5837e67b4d566516a70344b352c4c688e1a0781eed739be3aad3afb20c), block 956560
 
 ## The clue
 

@@ -18,7 +18,7 @@ you need your own copy of the book.
 | [EN_hard_1](./solutions/EN_hard_1.md) | English | Planted BIP39 mnemonic, one altered word | `181rPpfdUGFg4fVEdhDZEfDbBSqgigtoZR` | [b6e064aa](https://mempool.space/tx/b6e064aa8fde1153c342e2f7d98bce09e004bef5ac8db8f0138601289ceae69a) |
 | [EN_hard_2](./solutions/EN_hard_2.md) | English | XOR of seven printed hashes | `161YgNX2NrCzGunWvoV1hN3DuzWeuovBK3` | [c46c70fb](https://mempool.space/tx/c46c70fb04a2faeebde24057b22a547da7b309fd33b74b3d77181943a02b45d0) |
 | [IT_medium](./solutions/IT_medium.md) | Italian | English to Italian BIP39 wordlist translation | `1Q78hDeaHXQbuCSQxG1uPAc4V3jsuVUG9r` | [914a8251](https://mempool.space/tx/914a825138f943fc357b5a026b607b3c62bf67d5997043761711aaeabf5cab49) |
-| [IT_hard](./solutions/IT_hard.md) | Italian | Four cities from the Italian-only acknowledgements, triple SHA-256 | `1QExGvuieS9MvuKC3R1qjp6jGTVcqisTDj` | swept |
+| [IT_hard](./solutions/IT_hard.md) | Italian | Four cities from the Italian-only acknowledgements, triple SHA-256 | `1QExGvuieS9MvuKC3R1qjp6jGTVcqisTDj` | [ad999c58](https://mempool.space/tx/ad999c5837e67b4d566516a70344b352c4c688e1a0781eed739be3aad3afb20c) |
 
 ## What makes these hard
 
