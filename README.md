@@ -1,12 +1,13 @@
 # Finlow-Bates book puzzles: solutions
 
 Kary Finlow-Bates hid Bitcoin private keys inside his book *Move Over Brokers Here Comes The
-Blockchain*. Each key was funded with 200,000 sat (0.002 BTC) and claimable by whoever read
-the book closely enough to reconstruct it. There is no public solver writeup for any of them,
-and they had sat unsolved for roughly four years.
+Blockchain*. Each key was funded with **0.002 BTC** (200,000 sat) and claimable by whoever
+read the book closely enough to reconstruct it. There is no public solver writeup for any of
+them, and they had sat unsolved for roughly 4 years.
 
-This repo documents **four I solved and swept**, across both the English and Italian editions.
-The amounts are tiny on purpose. The point is the mechanism behind each one.
+This repo documents **4 I solved and swept**, across both the English and Italian editions,
+for **0.008 BTC** in total. The amounts are small on purpose. The point is the mechanism
+behind each one.
 
 Out of respect for the book's copyright, nothing here reproduces its pages, figures or text.
 Each writeup describes the reasoning and the derivation only. If you want to verify a solve,
